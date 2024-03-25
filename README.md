@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "7. Работа с HTTP"
 
-![CI](https://github.com/DevvIlya/help-desk-web/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/DevvIlya/HTTP/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
